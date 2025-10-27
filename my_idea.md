@@ -19,4 +19,4 @@ g
 
 All in all, anyone who learns Japanese would greatly benefit from this add-on, as it maked the job of looking up words, kanji, and names as well as various Japanese converions much easier and much more streamlined.
 
-When it comes to what is lacking, I caanot think what that would be. A few years ago, I wanted it to have pitch accent patterns, but that was implemented about 2 years ago. The addition of frequency lists may be helpful for some, but it is not a feature that I need right now as other software does that for me.
+When it comes to what is lacking, I caanot think what that would be. A few years ago, I wanted it to have pitch accent patterns, but that was implemented about 2 years ago. The addition of frequency lists may be helpful for some, but it is not a feature that I need right now as other software does that for me!
